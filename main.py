@@ -1,4 +1,3 @@
-print("hello world!")
+print("hello world! program")
 
-name = input("Enter your name: ")
-print(f"Hello, {name}!")
+
